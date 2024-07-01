@@ -15,4 +15,4 @@ MonoBehaviour:
   _itemName: HotDog
   _itemID: HotDog
   _icon: {fileID: 21300000, guid: 819b83d32dec10c4697abf9ce62d5fbb, type: 3}
-  _maxStackSize: 1
+  _maxStackSize: 5
